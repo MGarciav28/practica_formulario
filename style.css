@@ -20,7 +20,7 @@ body{
 .formulario .contenedor-inputs{
     padding: 20px;
     background: #fff;
-    border-radius: 6px 6px 0px;
+    border-radius: 6px 6px 0px 0px;
 }
 
 .formulario input[type="text"],
@@ -97,7 +97,7 @@ margin-left: 10px;
     display: block;
     padding: 15px 10px;
     cursor: pointer;
-    border-radius: 0 6px;
+    border-radius: 0  0 6px  6px;
     /* font-family: ; */
     font-size: 18px;
 }
